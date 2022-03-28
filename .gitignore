@@ -1,11 +1,9 @@
 HELP.md
 .gradle
-.gradle
 builds
 **/build/
 !src/**/build/
 target/
-build/
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -34,8 +32,6 @@ build/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
 .idea
